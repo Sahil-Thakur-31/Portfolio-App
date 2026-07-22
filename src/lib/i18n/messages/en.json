@@ -1,0 +1,44 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "guestbook": "Guestbook",
+    "stats": "Stats",
+    "contact": "Contact",
+    "admin": "Admin"
+  },
+  "Hero": {
+    "greeting": "Hi, I'm",
+    "title": "Junior Software Engineer & Full-Stack Developer",
+    "status": "Open for new opportunities",
+    "cta_contact": "Get in Touch",
+    "cta_whatsapp": "WhatsApp Chat"
+  },
+  "About": {
+    "title": "About Me",
+    "summary": "A dedicated and detail-oriented Web Developer with a solid foundation in building modern, full-stack applications. Proficient in Next.js and React, with a strong understanding of database design and API development. Eager to contribute to a collaborative development team.",
+    "p1": "I am a Master of Computer Applications (MCA) student specializing in modern JavaScript/TypeScript technologies, with professional experience constructing performant and dynamic web application services.",
+    "p2": "Whether it is building frontend solutions with React and Next.js, or writing server architectures using Node.js and SQL/NoSQL databases, I strive to design applications that are accessible, maintainable, and scalable.",
+    "contact_info": "Contact Details",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "pune": "Pune, Maharashtra, India"
+  },
+  "Skills": {
+    "title": "Skills & Technologies"
+  },
+  "Education": {
+    "title": "Education"
+  },
+  "Experience": {
+    "title": "Work Experience"
+  },
+  "Projects": {
+    "title": "Featured Projects",
+    "code": "Code",
+    "demo": "Live Demo"
+  }
+}
